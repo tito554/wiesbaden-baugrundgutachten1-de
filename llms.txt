@@ -1,0 +1,51 @@
+# Geotechnik — Wiesbaden
+
+> Geotechnical engineering services in Wiesbaden, Deutschland.
+
+## Services
+- [Anker](https://wiesbaden.baugrundgutachten1.de/anker/)
+- [Atterberg Grenzen](https://wiesbaden.baugrundgutachten1.de/atterberg-grenzen/)
+- [Aushub](https://wiesbaden.baugrundgutachten1.de/aushub/)
+- [Aushub Monitoring](https://wiesbaden.baugrundgutachten1.de/aushub-monitoring/)
+- [Bodenplatten](https://wiesbaden.baugrundgutachten1.de/bodenplatten/)
+- [Bodenverbesserung](https://wiesbaden.baugrundgutachten1.de/bodenverbesserung/)
+- [Boschungsstabilitat](https://wiesbaden.baugrundgutachten1.de/boschungsstabilitat/)
+- [Cbr Strasse](https://wiesbaden.baugrundgutachten1.de/cbr-strasse/)
+- [Cpt Versuch](https://wiesbaden.baugrundgutachten1.de/cpt-versuch/)
+- [Erdbebenisolierung](https://wiesbaden.baugrundgutachten1.de/erdbebenisolierung/)
+- [Flexibler Belag](https://wiesbaden.baugrundgutachten1.de/flexibler-belag/)
+- [Fundamente](https://wiesbaden.baugrundgutachten1.de/fundamente/)
+- [Grundungen](https://wiesbaden.baugrundgutachten1.de/grundungen/)
+- [Hange](https://wiesbaden.baugrundgutachten1.de/hange/)
+- [In Situ Durchlassigkeit](https://wiesbaden.baugrundgutachten1.de/in-situ-durchlassigkeit/)
+- [Injektionen](https://wiesbaden.baugrundgutachten1.de/injektionen/)
+- [Korngrossenanalyse](https://wiesbaden.baugrundgutachten1.de/korngrossenanalyse/)
+- [Labor](https://wiesbaden.baugrundgutachten1.de/labor/)
+- [Labor In Situ](https://wiesbaden.baugrundgutachten1.de/labor-in-situ/)
+- [Masw](https://wiesbaden.baugrundgutachten1.de/masw/)
+- [Pfahle](https://wiesbaden.baugrundgutachten1.de/pfahle/)
+- [Proctor Versuche](https://wiesbaden.baugrundgutachten1.de/proctor-versuche/)
+- [Ruttelverdichtung](https://wiesbaden.baugrundgutachten1.de/ruttelverdichtung/)
+- [Sandkegel Dichte](https://wiesbaden.baugrundgutachten1.de/sandkegel-dichte/)
+- [Schottersaulen](https://wiesbaden.baugrundgutachten1.de/schottersaulen/)
+- [Schurfgruben](https://wiesbaden.baugrundgutachten1.de/schurfgruben/)
+- [Seismik](https://wiesbaden.baugrundgutachten1.de/seismik/)
+- [Seismische Mikrozonierung](https://wiesbaden.baugrundgutachten1.de/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://wiesbaden.baugrundgutachten1.de/seismische-refraktion/)
+- [Spt Bohrung](https://wiesbaden.baugrundgutachten1.de/spt-bohrung/)
+- [Starrer Belag](https://wiesbaden.baugrundgutachten1.de/starrer-belag/)
+- [Strassenbau](https://wiesbaden.baugrundgutachten1.de/strassenbau/)
+- [Stutzmauern](https://wiesbaden.baugrundgutachten1.de/stutzmauern/)
+- [Tiefe Aushube](https://wiesbaden.baugrundgutachten1.de/tiefe-aushube/)
+- [Triaxialversuch](https://wiesbaden.baugrundgutachten1.de/triaxialversuch/)
+- [Untersuchung](https://wiesbaden.baugrundgutachten1.de/untersuchung/)
+- [Verflussigung](https://wiesbaden.baugrundgutachten1.de/verflussigung/)
+- [Weichbodentunnel](https://wiesbaden.baugrundgutachten1.de/weichbodentunnel/)
+- [Widerstand](https://wiesbaden.baugrundgutachten1.de/widerstand/)
+
+## Contact
+- Website: https://wiesbaden.baugrundgutachten1.de/
+
+## About
+This site provides geotechnical engineering services in Wiesbaden, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
